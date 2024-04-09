@@ -1,3 +1,3 @@
 {
-	"name": "Xlicon Bot Multi Device "
+	"name": "𝛮𝛩𝐵𝛪𝑇𝛥 𝑇𝑅𝛪𝐶𝛫𝑆"
 }
